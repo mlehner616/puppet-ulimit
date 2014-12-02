@@ -1,5 +1,7 @@
 # Puppet Ulimit
 
+Forked from [arioch/puppet-ulimit](https://github.com/arioch/puppet-ulimit) to continue support for Amazon and EL flavor linux versions.
+
 ## Requirements
 
 ## Tested on...
